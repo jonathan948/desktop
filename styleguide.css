@@ -1,0 +1,57 @@
+
+body{
+    font-family: Poppins;
+    font-size: 16px;
+}
+
+.container{
+    background:  hsl(257, 40%, 49%);
+}
+
+.botton{
+    background-color: white;
+    color: hsl(257, 40%, 49%);
+    border-radius: 40px;
+    width: 200px;
+}
+
+  /* .fa-facebook {
+    color: white;
+    position: relative;
+    left: 460px;
+    top: 200px;
+    border-radius: 30px;
+  }
+  
+  .fa-twitter {
+    color: white;
+    position: relative;
+    left: 470px;
+    top: 200px;
+  } 
+
+  .fa-instagram {
+    color: white;
+    position: relative;
+    left: 480px;
+    bottom: 120;
+  }  */
+
+@media(max-width: 375px){
+    img{
+        width: 100%;
+    }
+
+
+}
+
+@media(max-width: 768px){
+    img{
+        width: 100%;
+    }
+}
+@media(max-width: 1024px){
+    img{
+        width: 100%;
+    }
+}
